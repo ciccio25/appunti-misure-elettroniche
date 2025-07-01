@@ -1,6 +1,6 @@
-# appunti-misure-elettroniche 
+# Appunti misure elettroniche 
 
-Appunti scritti su Latex sul corso di Misure Elettroniche nel corso di laurea triennale di ingegneria elettronica presso l'UNIVPM.
+Appunti scritti nell'A.A. 2024/2025 su Latex sul corso di Misure Elettroniche (ora "Strumentazione Digitale e Misure Elettroniche" nel corso di Ingegneria elettronica e delle tecnologie digitali) nel corso di laurea triennale di ingegneria elettronica presso l'UNIVPM.
 
 Come ogni appunto che trovate su internet, vi chiedo di non fidarvi ciecamente del materiale che trovate su questa dispensa e mandatemi una email se trovate qualche errore grammaticale e/o c'è qualche argomento che ha bisogno di essere corretto/aggiornato. 
 

@@ -1,0 +1,73 @@
+\documentclass{book}
+
+\title{Appunti di Misure elettroniche}
+\author{Stefano Rossini}
+
+\usepackage{bookmark}
+
+\usepackage[italian]{babel}
+\usepackage{geometry}
+\geometry{a4paper, margin={2.54cm,1.9cm}}
+
+\usepackage{hyperref}
+\usepackage{tcolorbox} %for COLORED BOXES 
+
+\usepackage{amsmath}
+\usepackage{graphicx}
+\graphicspath{{./immagini/}}
+
+\usepackage{url}
+
+\usepackage{physics}
+
+\usepackage{amsfonts} 
+
+\usepackage{gensymb}
+
+\usepackage{textcomp}
+
+\usepackage{tikz}
+
+\usepackage{pgfplots}
+
+\usepackage{imakeidx} 
+\makeindex[columns=3, title=Alphabetical Index, intoc]
+
+\hypersetup{
+    colorlinks=true,
+    linkcolor=blue,
+    bookmarksnumbered=true,  % <-- numerazione nelle sezioni del PDF
+    pdftitle={Appunti Misure elettroniche},
+    pdfauthor={Autore},
+    pdfstartview=FitH
+}
+
+\begin{document}
+
+\maketitle
+
+%\setcounter{chapter}{-1}
+\include{Introduzione}
+
+\tableofcontents
+
+\include{Tabella lettere greche}
+
+\include{1 - Elementi di metrologia e fondamenti della misurazione}
+\include{2 - Il Sistema Internazionale e i campioni delle unità di misura}
+\include{3 - Riferibilità, campioni secondari delle u.d.m., disseminazione del SI}
+\include{4 - Notazione SI, concetti introduttivi}
+\include{5 - Valutazione dell'incertezza di tipo A e B}
+\include{6 - Incertezza strumentale e regole di scrittura}
+\include{7 - Conversione AD e convertitori - parte I}
+\include{8 - Conversione AD e convertitori - parte II}
+\include{9 - Conversione AD e convertitori - parte III}
+\include{10 - Effetti di inserzione degli strumenti - autoconsumi} 
+\include{11 - Strumenti numerici indicatori – parte I}
+\include{12 - Strumenti numerici indicatori - parte II} 
+\include{13 - Strumenti numerici indicatori - parte III}
+\include{14 - Strumenti numerici indicatori - parte IV}
+\include{15 - Strumenti numerici indicatori - parte V}
+\include{16 - Strumenti numerici indicatori - parte VI}
+\include{17 - Strumenti numerici indicatori - parte VII}
+\end{document}

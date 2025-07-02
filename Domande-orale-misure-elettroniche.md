@@ -19,20 +19,20 @@
 - Scrivimi e spiegami le incertezze dell'architetture viste a lezione (l'incertezza dell'OL e l'incertezza di N) 
 
 ## Giorno 2
--Convertitore ADC a valor medio tensione-tempo doppia rampa: architettura, non idealità dove si trova in uno strumento numerico, grafici delle tensioni nell'architettura nel tempo dei pin 
--Cosa succede se c'è un cambiamento di temperatura in uno strumento di misura? 
--Quali sono i problemi dei trigger e come si possono compensare il rumore? 
--Nella corversione da analogico a digitale, quali sono i vantaggi e gli svantaggi? 
--Quale è la differenza tra quantizzazione silenziata e non silenziata? Comparamele 
--Come si fa a diminuire l'incertezza in una quantizzazione? 
--Principio di funzionamento dell'intervallometro: disegno, funzionamento e osservazioni 
--Come ampliare il campo di misura negli strumenti indicatori? 
--Cosa fare nel caso alternato per una misurare un campo elevato? Come è fatto un TA e un TV e quali sono le differenze? 
--Periodometro: disegno architettura, funzionamento e osservazioni 
--ADC di tipo Flash: disegno architettura, funzionamento e osservazioni 
--Differenza tra valore efficace e valore vero efficace 
--Perchè utilizzare un filtro passa-basso piuttosto che calcolarsi analiticamente il valore medio in un periodo in un circuito TRMS? 
--Spiegazione e disegno di un voltmetro. Cosa bisogna fare se si ha una grandezza sia con componente continua che con una componente alternata? Spiegazione dell'incertezza in questo ultimo caso 
--Formula binomia
+- Convertitore ADC a valor medio tensione-tempo doppia rampa: architettura, non idealità dove si trova in uno strumento numerico, grafici delle tensioni nell'architettura nel tempo dei pin 
+- Cosa succede se c'è un cambiamento di temperatura in uno strumento di misura? 
+- Quali sono i problemi dei trigger e come si possono compensare il rumore? 
+- Nella corversione da analogico a digitale, quali sono i vantaggi e gli svantaggi? 
+- Quale è la differenza tra quantizzazione silenziata e non silenziata? Comparamele 
+- Come si fa a diminuire l'incertezza in una quantizzazione? 
+- Principio di funzionamento dell'intervallometro: disegno, funzionamento e osservazioni 
+- Come ampliare il campo di misura negli strumenti indicatori? 
+- Cosa fare nel caso alternato per una misurare un campo elevato? Come è fatto un TA e un TV e quali sono le differenze? 
+- Periodometro: disegno architettura, funzionamento e osservazioni 
+- ADC di tipo Flash: disegno architettura, funzionamento e osservazioni 
+- Differenza tra valore efficace e valore vero efficace 
+- Perchè utilizzare un filtro passa-basso piuttosto che calcolarsi analiticamente il valore medio in un periodo in un circuito TRMS? 
+- Spiegazione e disegno di un voltmetro. Cosa bisogna fare se si ha una grandezza sia con componente continua che con una componente alternata? Spiegazione dell'incertezza in questo ultimo caso 
+- Formula binomia
 
 

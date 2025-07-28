@@ -1,3 +1,8 @@
+# Istruzioni per l'esame orale
+Il candidato o la candidata all'esame orale, dovrà rispondere ad almeno 4 domande. 
+
+Si cercherà di fare un discorso unico e completo: se riuscite voi, da soli, a fare  i collegamenti, è cosa buona e giusta. 
+
 # Domande tipo per l'orale di misure elettroniche 
 
 ## Giorno 1
